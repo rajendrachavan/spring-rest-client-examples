@@ -1,5 +1,5 @@
 
-package neo.springBootRest.springrestclientexamples.api.domain;
+package neo.springBootRest.api.domain;
 
 import java.io.Serializable;
 import java.util.HashMap;
